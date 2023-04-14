@@ -7,9 +7,9 @@
 
 - 🤖 I also have a discord bot [SlimeyBOT](https://slimeydev.github.io/SlimeyBOT)
 
-- 🌐 My website [https://slimeydev.github.io](https://slimeydev.github.io)
+- 🌐 My website: [https://slimeydev.github.io](https://slimeydev.github.io)
 
-- 🌐 Websites I made **https://astronomixofficial.github.io/**
+- 🌐 Website I made: **https://astronomixofficial.github.io/**
 
 - 📫 How to reach me **discord(slimeydev#5493)**
 
