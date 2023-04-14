@@ -9,7 +9,7 @@
 
 - 🌐 My website: [https://slimeydev.github.io](https://slimeydev.github.io)
 
-- 🌐 Website I made: **https://astronomixofficial.github.io/**
+- 🌐 Website I made: https://astronomixofficial.github.io/
 
 - 📫 How to reach me: **slimeydev#5493 @ discord**
 
