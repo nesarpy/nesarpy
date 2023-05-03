@@ -11,7 +11,7 @@
 
 - 🌐 Website I made: https://astronomixofficial.github.io/
 
-- 📫 How to reach me: **slimeydev#5493 @ discord**
+- 📫 How to reach me: https://slimeydev.github.io/contacts
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
