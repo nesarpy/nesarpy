@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SlimeyDev</h1>
 <h3 align="center">I am python, C++, HTML, CSS and game developer</h3>
 
-- 🔭 I’m currently working on an AI(GPT 3.5) powered spelling and grammar checker **spellGPT**
+- 🔭 I’m currently working on an **arduino** powered **airplane** with a friend.
 
 - 🌱 I’m currently learning **JavaScript**
 
