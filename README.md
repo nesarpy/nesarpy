@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SlimeyDev</h1>
 <h3 align="center">I am python, C++, HTML, CSS and game developer</h3>
 
-- 🔭 I’m currently working on an **arduino** powered **airplane** with a friend.
+- 🔭 I’m currently working on an **arduino** powered **airplane** with a friend. Check out the code base for that <a href="https://github.com/SlimeyDev/plane-firmware">here<a>!
 
 - 🌱 I’m currently learning **JavaScript**
 
