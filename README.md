@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm SlimeyDev</h1>
-<h3 align="center">I am python, C++, HTML, CSS and game developer</h3>
-- 🌱 I’m currently learning **JavaScript**
+<h3 align="center">I am a web developer, discord bot developer and I also like making robots</h3>
+- 🌱 I’m currently learning JavaScript
 
 - 🌐 My website: [https://slimeydev.github.io](https://slimeydev.github.io)
 
-- 📫 How to reach me: https://slimeydev.github.io/contacts
+- 📫 How to reach me: [https://slimeydev.github.io/contacts](https://slimeydev.github.io/contact)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
