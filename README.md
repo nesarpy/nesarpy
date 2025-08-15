@@ -2,6 +2,6 @@
 <h3 align="center">I enjoy coding in python and making robots</h3>
 - 🌱 I’m currently learning React
 
-- 🌐 My website: [https://slimeydev.github.io](https://nesarpy.github.io)
+- 🌐 My website: [https://nesarpy.github.io](https://nesarpy.github.io)
 
-- 📫 How to reach me: [https://slimeydev.github.io/contacts](https://nesarpy.github.io/contact)
+- 📫 How to reach me: [https://nesarpy.github.io/contacts](https://nesarpy.github.io/contact)
