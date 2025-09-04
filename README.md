@@ -4,4 +4,4 @@
 
 - 🌐 My website: [https://nesarpy.github.io](https://nesarpy.github.io)
 
-- 📫 How to reach me: [https://nesarpy.github.io/contacts](https://nesarpy.github.io/contact)
+- 📫 How to reach me: [https://nesarpy.github.io/#hitmeup](https://nesarpy.github.io/#hitmeup)
